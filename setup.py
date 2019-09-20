@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="testpckg",
-    version="0.0.1",
+    version="0.0.2",
     author="neha",
     author_email="neha.r.garde@gma.com",
     description="A small test example package",

@@ -1,4 +1,4 @@
 class TestingPckg:
     def testingpckg(self):
-        print("testing")
+        print("testing update pckg")
 
